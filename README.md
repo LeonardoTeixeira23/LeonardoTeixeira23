@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Leonardo</h1>
-<p align="left">Tenho 23 anos e estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas no IFRS. Sou estagiário na empresa MV, no setor de Qualidade de Software, na vertente Hospidata. Lá, estou trabalhando na criação de um processo de automação de testes, utilizando a ferramenta TestComplete.
+<p align="left">Tenho 23 anos e estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas no IFRS. Sou Analista de Testes Jr na empresa MV, vertente Hospidata. Lá, estou trabalhando na criação de um processo de automação de testes, utilizando a ferramenta TestComplete.
 Minhas ambições incluem atuar na área de Ciência de Dados, mas recentemente, meu interesse pela área de Inteligência Artificial tem crescido cada vez mais.</p>
 
 <h3 align="left">Redes sociais:</h3>
