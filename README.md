@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Leonardo</h1>
-<p align="left">Tenho 23 anos e estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas no IFRS. Sou Analista de Testes Jr na empresa MV, vertente Hospidata. Lá, estou trabalhando na criação de um processo de automação de testes, utilizando a ferramenta TestComplete.
+<p align="left">Tenho 23 anos e estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas no IFRS. Sou estagiário na empresa MV, no setor de Qualidade de Software, na vertente Hospidata. Lá, estou trabalhando na criação de um processo de automação de testes, utilizando a ferramenta TestComplete.
 Minhas ambições incluem atuar na área de Ciência de Dados, mas recentemente, meu interesse pela área de Inteligência Artificial tem crescido cada vez mais.</p>
 
 <h3 align="left">Redes sociais:</h3>
@@ -27,6 +27,7 @@ Minhas ambições incluem atuar na área de Ciência de Dados, mas recentemente,
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
           </p>
 
